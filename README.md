@@ -1,6 +1,6 @@
 Self-graded Assignment 1 Checklist
-Name: Samuel Fung
-Set: 2C
+Name: Samuel Fung  
+Set: 2C  
 
     Criteria	
     ========
